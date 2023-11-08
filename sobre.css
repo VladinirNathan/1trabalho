@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-size: 100%;
+}
+
+.section1 {
+    background-color: 
+    #8d72201e;
+}
+.produtos {
+    font-family: Text Large - Desktop;
+    padding-left: 40px;
+}
+.s {
+    color: #474747;
+}
+
+.div {
+    background-color: blue;
+    position: relative;
+    Width: 292px;
+    Height: 321px;
+    Top: 558px;
+    Left: 648px;
+    padding: 4px;
+}
+
+.img {
+    position: relative;
+    Width: 160px;
+    Height: 120px;
+    background-color: red;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+}
+
