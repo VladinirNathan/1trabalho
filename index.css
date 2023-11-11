@@ -570,3 +570,184 @@ footer .footer_4 p {
     margin-top: 23px;
     margin-bottom: 22px;
 }
+
+
+
+
+
+.section1 {
+    background-color: 
+    #8d72201e;
+}
+.produtos {
+    font-family: Text Large - Desktop;
+    padding-left: 40px;
+}
+.s{
+    color: #474747;
+    top: 2000px
+}
+
+
+.div1 {
+    /* background-color: blue; */
+    position: relative;
+    Width: 292px;
+    Height: 321px;
+    Top: 2100px;
+    Left: 795px;
+    padding: 5px;
+}
+
+.div2 {
+    /* background-color: blue; */
+    position: relative;
+    Width: 292px;
+    Height: 321px;
+    Top: 1768px;
+    Left: 620px;
+    padding: 5px;
+}
+
+.div3 {
+    /* background-color: blue; */
+    position: relative;
+    Width: 292px;
+    Height: 321px;
+    Top: 1438px;
+    Left: 450px;
+    padding: 5px;
+}
+
+.div4 {
+    /* background-color: blue; */
+    position: relative;
+    Width: 292px;
+    Height: 321px;
+    Top: 1108px;
+    Left: 280px;
+    padding: 5px;
+}
+
+.div5 {
+    /* background-color: blue; */
+    position: relative;
+    Width: 292px;
+    Height: 321px;
+    Top: 993px;
+    Left: 795px;
+    padding: 5px;
+}
+
+.div6 {
+    /* background-color: blue; */
+    position: relative;
+    Width: 292px;
+    Height: 321px;
+    Top: 661px;
+    Left: 620px;
+    padding: 5px;
+}
+
+.div7 {
+    /* background-color: blue; */
+    position: relative;
+    Width: 292px;
+    Height: 321px;
+    Top: 331px;
+    Left: 450px;
+    padding: 5px;
+}
+
+.div8 {
+    /* background-color: blue; */
+    position: relative;
+    Width: 292px;
+    Height: 321px;
+    Top: 0px;
+    Left: 280px;
+    padding: 5px;
+}
+
+
+
+
+
+.img1{
+    position: relative;
+    Width: 160px;
+    Height: 120px;
+    background-color: white;
+    justify-content: center;
+}
+
+.img2{
+    position: relative;
+    Width: 160px;
+    Height: 120px;
+    background-color: white;
+    justify-content: center;
+}
+
+.img3{
+    position: relative;
+    Width: 160px;
+    Height: 120px;
+    background-color: white;
+    justify-content: center;
+}
+
+.img4{
+    position: relative;
+    Width: 160px;
+    Height: 120px;
+    background-color: white;
+    justify-content: center;
+}
+
+.img5{
+    position: relative;
+    Width: 160px;
+    Height: 120px;
+    background-color: white;
+    justify-content: center;
+}
+
+.img6{
+    position: relative;
+    Width: 160px;
+    Height: 120px;
+    background-color: white;
+    justify-content: center;
+}
+
+.img7{
+    position: relative;
+    Width: 160px;
+    Height: 120px;
+    background-color: white;
+    justify-content: center;
+}
+
+.img8{
+    position: relative;
+    Width: 160px;
+    Height: 120px;
+    background-color: white;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+.size1{
+    font-size: 8px;
+    color: #8F8F8F;
+}
+
+.size2{
+    font-size: 16px;
+}
