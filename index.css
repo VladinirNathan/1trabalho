@@ -767,3 +767,9 @@ section > div{
     font-size: 16px;
     color:#8F8F8F;
 }
+.oi{
+    display: flex;
+    justify-content: space-between;
+    color: #C92071;
+    margin-right: 145px;
+}
